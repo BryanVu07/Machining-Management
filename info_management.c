@@ -270,7 +270,7 @@ int main()
             
             if(a7==1)
             {
-                printf("You have chose Shop Safety Manual\n\n");
+                printf("You have chose Shop Safety Manuals\n\n");
                 
                 char manual_nameg[50];
                 char source_nameg[50];
